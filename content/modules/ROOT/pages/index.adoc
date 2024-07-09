@@ -1,4 +1,4 @@
-= Welcome to the {lab_name} !
+= Welcome to the {lab_name} !!
 
 [%hardbreaks]
 == Introduction
