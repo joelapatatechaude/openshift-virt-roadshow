@@ -44,14 +44,6 @@ image::module-07-tempinst/05_Clone_Details.png[link=self, window=blank, width=10
 +
 image::module-07-tempinst/06_Edit_CPU_Mem.png[link=self, window=blank, width=100%]
 +
-. Navigate to the *Network Interfaces* tab, to the right of the *default* interface, select the three-dot menu and the edit option.
-+
-image::module-07-tempinst/07_Edit_Network.png[link=self, window=blank, width=100%]
-+
-. When the *Edit network interface* menu appears, set the *Network* value to the *vmexamples/vlan0* network, and click the *Save* button.
-+
-image::module-07-tempinst/08_Edit_Net_Int.png[link=self, window=blank, width=100%]
-+
 . Next click on the *Scripts* tab at the top, and in the section called *Cloud-init* click the *Edit* button.
 +
 image::module-07-tempinst/09_Scripts_CloudInit.png[link=self, window=blank, width=100%]
@@ -78,7 +70,7 @@ image::module-07-tempinst/11_User_Templates.png[link=self, window=blank, width=1
 +
 image::module-07-tempinst/12_Quick_Create_Template.png[link=self, window=blank, width=100%]
 +
-. When the virtual machine boots you can see on the *Overview* page that it was created from our template, and has the system resources we defined, and is already attached to the *vmexamples/vlan0* network with an assigned IP address.
+. When the virtual machine boots you can see on the *Overview* page that it was created from our template, and has the system resources we defined.
 +
 image::module-07-tempinst/13_VM_From_Template.png[link=self, window=blank, width=100%]
 +

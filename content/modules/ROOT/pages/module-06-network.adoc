@@ -1,4 +1,4 @@
-= Network Management
+= Network Management (Optional)
 
 == Introduction
 
